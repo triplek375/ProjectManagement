@@ -1,4 +1,4 @@
-# Assignment 2 : Project Scope
+# Assignment 2
 
 ## Project scope statement
 * A paragraph providing a summary of the scope of the project
